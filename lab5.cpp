@@ -10,7 +10,7 @@ void fillOutFile(vector<string>& arr, ofstream& outf);
 
 int main()
 {
-	//Вариант 12
+	
 	ifstream inf("inFile.txt");
 	ofstream outf("outFile.txt");
 
